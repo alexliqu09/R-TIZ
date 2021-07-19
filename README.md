@@ -14,9 +14,13 @@ R-tiz's main idea is to present a platform that houses the Art community and tha
 * Kenjhy Javier Bazan Turin, Email: kbazant@uni.pe
 * Carlos Moscol Durand, Email: cmoscold@uni.pe
 
+## Special thanks
+* Many thanks to the repository of junyanz author of [Pytorch-examples](https://github.com/pytorch/examples),this work would not have been possible without your repository.
+* Many thanks to the repository of  Richard Zhang author of [Colorful Image Colorization](https://github.com/richzhang/colorization),this work would not have been possible without your repository.
+
 ## 📄 Citation
 
-* ###  Fast-neural-style
+1. ###  Fast-neural-style
 ```
 @article{DBLP:journals/corr/JohnsonAL16,
   author    = {Justin Johnson and
@@ -34,7 +38,7 @@ R-tiz's main idea is to present a platform that houses the Art community and tha
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-* ### Colorful Image Colorization
+2. ### Colorful Image Colorization
 ```
 @inproceedings{zhang2016colorful,
   title={Colorful Image Colorization},
