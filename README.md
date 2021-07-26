@@ -20,7 +20,7 @@ La idea principal de R-tiz es presentar una plataforma que albergue a la comunid
 
 ## 📄 Cita
 
-1. ###  Fast-neural-style
+1. ###  [Fast-neural-style](https://arxiv.org/pdf/1603.08155.pdf)
 ```
 @article{DBLP:journals/corr/JohnsonAL16,
   author    = {Justin Johnson and
@@ -38,7 +38,7 @@ La idea principal de R-tiz es presentar una plataforma que albergue a la comunid
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-2. ### Colorful Image Colorization
+2. ### [Colorful Image Colorization](https://arxiv.org/pdf/1705.02999.pdf)
 ```
 @inproceedings{zhang2016colorful,
   title={Colorful Image Colorization},
