@@ -2,11 +2,11 @@
 <img src="src\R-TIZ.png"  width="400"/>
 </p align="center">
 
-## 📚 Description
+## 📚 Descripción
 
-R-tiz's main idea is to present a platform that houses the Art community and that has as its standard the use of Artificial Intelligence and that is available to all types of users. The system will allow users to use interesting tools made with OpenCV and IA, Also the software will have a gallery system where our users can store and publish their images, so that anyone interested in seeing images of other artists can do so from our software service.
+La idea principal de R-tiz es presentar una plataforma que albergue a la comunidad Artística y que tenga como estándar el uso de Inteligencia Artificial y que esté disponible para todo tipo de usuarios. El sistema permitirá a los usuarios utilizar interesantes herramientas realizadas con OpenCV e IA, además el software contará con un sistema de galería donde nuestros usuarios podrán almacenar y publicar sus imágenes, para que cualquier interesado en ver imágenes de otros artistas pueda hacerlo desde nuestro servicio de software.
 
-## 👨‍💻 Team
+## 👨‍💻 Equipo
 * Alexander Leonardo Lique Lamas, Github: [alexliqu09](https://github.com/alexliqu09), Email: alexander.lique.l@uni.pe
 * Royer Amed Lopez Flores, Github: [roamlofl12](https://github.com/roamlofl12), Email: royer.lopez.f@uni.pe 
 * Jorge L. Parishuaña Ortega, Email: jorge.parishuana.o@uni.pe
@@ -14,11 +14,11 @@ R-tiz's main idea is to present a platform that houses the Art community and tha
 * Kenjhy Javier Bazan Turin, Email: kbazant@uni.pe
 * Carlos Moscol Durand, Email: cmoscold@uni.pe
 
-## 👏 Special thanks
-* Many thanks to the repository of junyanz author of [Pytorch-examples](https://github.com/pytorch/examples),this work would not have been possible without your repository.
-* Many thanks to the repository of  Richard Zhang author of [Colorful Image Colorization](https://github.com/richzhang/colorization),this work would not have been possible without your repository.
+## 👏 Agradecimientos Especiales
+* Agradecimientos al repositorio de junyanz, autor de [Pytorch-examples](https://github.com/pytorch/examples).
+* Agradecimientos al repositorio de Richard Zhang autor de [Colorful Image Colorization](https://github.com/richzhang/colorization).
 
-## 📄 Citation
+## 📄 Cita
 
 1. ###  Fast-neural-style
 ```
